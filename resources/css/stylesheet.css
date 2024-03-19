@@ -1,7 +1,7 @@
 /* This makes the site always in dark mode */
 body { 
   background-color: black; 
-  color: white;
+  color: LightGrey;
 }
 
 /* Link Coloring */
