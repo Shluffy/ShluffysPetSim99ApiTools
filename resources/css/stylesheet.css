@@ -6,8 +6,8 @@ body {
 
 /* Link Coloring */
 body a {
-  color: blue;
+  color: AliceBlue;
 }
 body a:hover {
-  color: red;
+  color: CadetBlue;
 }
